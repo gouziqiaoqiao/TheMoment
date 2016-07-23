@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__47-[MJRefreshComponent executeRefreshingCallback]_block_invoke:MJRefreshComponent.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dataArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WJMineViewController tableView:numberOfRowsInSection:]:WJMineViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_dataArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__40-[WJMineViewController getDataWithSize:]_block_invoke:WJMineViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dataArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WJGyroscopeController getPhoneAcceleration]:WJGyroscopeController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.motionManager">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,43 @@
+//
+//  PrefixHeader.pch
+//  TheMoment
+//
+//  Created by 千锋 on 16/7/1.
+//  Copyright (c) 2016年 wangjun. All rights reserved.
+//
+
+#ifndef TheMoment_PrefixHeader_pch
+#define TheMoment_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+// 屏幕的宽
+#define wjMainScreenW self.window.frame.size.width
+// 屏幕的高
+#define wjMainScreenH self.window.frame.size.height
+// UMeng分享的key
+#define UMengKey @"578496fde0f55ad8b500202e"
+
+#define nightModelColor 
+
+
+
+#import <Masonry.h>
+#import "YYModel.h"
+#import <FMDB.h>
+#import "WJFMDBManager.h"
+#import "WJLocationViewController.h"
+#import <AFHTTPSessionManager.h>
+#import "KVNProgress.h"
+#import "WJAudioPlayer.h"
+#import "UMSocial.h"
+#import "UMSocialWechatHandler.h"
+#import "UMSocialQQHandler.h"
+#import "UMSocialSinaSSOHandler.h"
+#import "WJTime.h"
+#import "WJNSAttributed.h"
+#import "MJRefresh.h"
+
+
+#endif

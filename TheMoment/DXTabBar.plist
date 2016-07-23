@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict/>
+<array>
+	<dict>
+		<key>className</key>
+		<string>WJMomentViewController</string>
+		<key>title</key>
+		<string>当下</string>
+		<key>image</key>
+		<string>dx_dx.png</string>
+		<key>selectedImage</key>
+		<string>dx_dx_sel.png</string>
+	</dict>
+	<dict>
+		<key>className</key>
+		<string>WJMineViewController</string>
+		<key>title</key>
+		<string>我的</string>
+		<key>image</key>
+		<string>dx_mine@2x.png</string>
+		<key>selectedImage</key>
+		<string>dx_mine_sel@2x.png</string>
+	</dict>
+</array>
 </plist>
